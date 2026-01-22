@@ -1,0 +1,21 @@
+Season,Team,OriginalPosition,NewPosition,PositionChange,OriginalPoints,NewPoints,ZeroZeroDraws,GoalDifference
+2022-23,Man City,1,1,0,89,89,0,61
+2022-23,Arsenal,2,2,0,84,83,1,45
+2022-23,Man United,3,3,0,75,73,2,15
+2022-23,Newcastle,4,4,0,71,64,7,35
+2022-23,Liverpool,5,5,0,67,63,4,28
+2022-23,Brighton,6,6,0,62,60,2,19
+2022-23,Tottenham,8,7,1,60,60,0,7
+2022-23,Aston Villa,7,8,-1,61,60,1,5
+2022-23,Brentford,9,9,0,59,56,3,12
+2022-23,Fulham,10,10,0,52,49,3,2
+2022-23,Crystal Palace,11,11,0,45,40,5,-9
+2022-23,Chelsea,12,12,0,44,40,4,-9
+2022-23,West Ham,14,13,1,40,40,0,-13
+2022-23,Wolves,13,14,-1,41,39,2,-27
+2022-23,Nott'm Forest,16,15,1,38,37,1,-30
+2022-23,Bournemouth,15,16,-1,39,37,2,-34
+2022-23,Everton,17,17,0,36,33,3,-23
+2022-23,Leicester,18,18,0,34,32,2,-17
+2022-23,Leeds,19,19,0,31,28,3,-30
+2022-23,Southampton,20,20,0,25,24,1,-37

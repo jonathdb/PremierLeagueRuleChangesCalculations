@@ -1,0 +1,21 @@
+Season,Team,OriginalPosition,NewPosition,PositionChange,OriginalPoints,NewPoints,ZeroZeroDraws,GoalDifference
+2003-04,Arsenal,1,1,0,90,86,4,47
+2003-04,Chelsea,2,2,0,79,75,4,37
+2003-04,Man United,3,3,0,75,73,2,29
+2003-04,Liverpool,4,4,0,60,54,6,18
+2003-04,Newcastle,5,5,0,56,51,5,12
+2003-04,Aston Villa,6,6,0,56,51,5,4
+2003-04,Charlton,7,7,0,53,50,3,0
+2003-04,Bolton,8,8,0,53,50,3,-8
+2003-04,Fulham,9,9,0,52,46,6,6
+2003-04,Blackburn,15,10,5,44,44,0,-8
+2003-04,Birmingham,10,11,-1,50,43,7,-5
+2003-04,Portsmouth,13,12,1,45,42,3,-7
+2003-04,Middlesbrough,11,13,-2,48,42,6,-8
+2003-04,Tottenham,14,14,0,45,42,3,-10
+2003-04,Southampton,12,15,-3,47,41,6,-1
+2003-04,Man City,16,16,0,41,37,4,1
+2003-04,Everton,17,17,0,39,34,5,-12
+2003-04,Leeds,19,18,1,33,31,2,-39
+2003-04,Leicester,18,19,-1,33,29,4,-17
+2003-04,Wolves,20,20,0,33,29,4,-39

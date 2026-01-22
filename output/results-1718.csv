@@ -1,0 +1,21 @@
+Season,Team,OriginalPosition,NewPosition,PositionChange,OriginalPoints,NewPoints,ZeroZeroDraws,GoalDifference
+2017-18,Man City,1,1,0,100,98,2,79
+2017-18,Man United,2,2,0,81,78,3,40
+2017-18,Tottenham,3,3,0,77,76,1,38
+2017-18,Liverpool,4,4,0,75,71,4,46
+2017-18,Chelsea,5,5,0,70,67,3,24
+2017-18,Arsenal,6,6,0,63,61,2,23
+2017-18,Burnley,7,7,0,54,50,4,-3
+2017-18,Everton,8,8,0,49,46,3,-14
+2017-18,Leicester,9,9,0,47,44,3,-4
+2017-18,Newcastle,10,10,0,44,43,1,-8
+2017-18,Bournemouth,12,11,1,44,42,2,-16
+2017-18,Crystal Palace,11,12,-1,44,40,4,-10
+2017-18,West Ham,13,13,0,42,39,3,-20
+2017-18,Watford,14,14,0,41,38,3,-20
+2017-18,Brighton,15,15,0,40,35,5,-20
+2017-18,Huddersfield,16,16,0,37,32,5,-30
+2017-18,Southampton,17,17,0,36,31,5,-19
+2017-18,Stoke,19,18,1,33,30,3,-33
+2017-18,Swansea,18,19,-1,33,29,4,-28
+2017-18,West Brom,20,20,0,31,27,4,-25

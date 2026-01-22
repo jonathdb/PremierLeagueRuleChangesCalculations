@@ -1,0 +1,21 @@
+Season,Team,OriginalPosition,NewPosition,PositionChange,OriginalPoints,NewPoints,ZeroZeroDraws,GoalDifference
+2020-21,Man City,1,1,0,86,85,1,51
+2020-21,Man United,2,2,0,74,67,7,29
+2020-21,Liverpool,3,3,0,69,67,2,26
+2020-21,Leicester,5,4,1,66,65,1,18
+2020-21,West Ham,6,5,1,65,63,2,15
+2020-21,Tottenham,7,6,1,62,61,1,23
+2020-21,Chelsea,4,7,-3,67,61,6,22
+2020-21,Arsenal,8,8,0,61,58,3,16
+2020-21,Everton,10,9,1,59,57,2,-1
+2020-21,Leeds,9,10,-1,59,56,3,8
+2020-21,Aston Villa,11,11,0,55,51,4,9
+2020-21,Newcastle,12,12,0,45,43,2,-16
+2020-21,Wolves,13,13,0,45,42,3,-16
+2020-21,Southampton,15,14,1,43,41,2,-21
+2020-21,Crystal Palace,14,15,-1,44,41,3,-25
+2020-21,Brighton,16,16,0,41,35,6,-6
+2020-21,Burnley,17,17,0,39,35,4,-22
+2020-21,Fulham,18,18,0,28,23,5,-26
+2020-21,West Brom,19,19,0,26,23,3,-41
+2020-21,Sheffield United,20,20,0,23,23,0,-43
